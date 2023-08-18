@@ -1,0 +1,1 @@
+# skinsmoney-typescript
